@@ -48,7 +48,7 @@ Mapas de z-index:
 body{
 	width: 100%;
 	height: 100vw;
-	background: var(--fondo);
+	background: var(--fondo) no-repeat;
 	background-size: cover;
 }
 
