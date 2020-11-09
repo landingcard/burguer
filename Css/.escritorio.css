@@ -71,7 +71,7 @@ body{
 .column h2{
    font-size: 3vw;
    color: #f02148;
-   text-shadow: 2px 4px 4px rgba(0, 0, 0, 1);
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 
 }
 
@@ -80,7 +80,7 @@ body{
     font-size: 2vw;
     font-weight: bold;
     color: black;
-    text-shadow: 2px 4px 4px rgba(0, 0, 0, 1);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
 }
 
 
